@@ -1,2 +1,2 @@
 # coburndelana.github.io
-sexmyths.org
+www.sexmyths.org
