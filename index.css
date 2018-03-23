@@ -10,6 +10,7 @@ h1 {
   color: #FF0000;
   font-size: 2 rem;
   text-align: left;
+  fonst-style: bold;
   font-weight: 100;
   font-kerning: 20px;
   margin: 25px;
@@ -26,6 +27,7 @@ footer {
 
 nav a {
   font-family: "letter-gothic-std",monospace;
+  font-style: bold;
   margin: 40px;
   color: #000000;
   text-decoration: none;
