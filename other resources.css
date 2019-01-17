@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header {
+  margin: 30px;
+}
+
+nav a {
+  font-family: "nudista-web",sans-serif;
+  color: #FF0000;
+  text-decoration: none;
+  margin: 10px;
+}
+
+nav a:hover {
+  color: #FAD2D6;
+}
+
+body {
+  background-image: url(images/.jpg);
+  min-width: 100%;
+  min-height: 100%;
+}
+
+h1 {
+    font-family:"nudista-web",sans-serif;
+  	color: #FF0000;
+  	font-size: 4.5em;
+  	text-align: center;
+  	fonst-style: normal;
+    font-weight: 700;
+    letter-spacing: 3.5px;
+  	font-kerning: 20px;
+    margin: 40px 0 0 0;
+    padding: 40px 0 0 0;
+}
+
+ul {
+  font-family: 'Asap Condensed', sans-serif;
+  font-weight: bold;
+  text-align: left;
+  font-size: 24px;
+  margin: 70px 250px 100px 250px;
+  color: #FF0000;
+  padding: 0px;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+  margin: 20px;
+}
+
+a { 
+	text-decoration: none;
+	color: #FF0000;
+}
+
+a:hover {
+  color: #FAD2D6;
+}
+
+h2 {
+    font-family:"nudista-web",sans-serif;
+  	color: #FF0000;
+  	font-size: 2.5em;
+  	text-align: center;
+  	fonst-style: normal;
+    font-weight: 700;
+    letter-spacing: 3.5px;
+  	font-kerning: 20px;
+    margin: 40px 0 0 0;
+    padding: 40px 0 0 0;
+}
