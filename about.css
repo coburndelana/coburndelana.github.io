@@ -20,14 +20,43 @@ hr {
   margin: 25px 0 0 0;
 }
 
-input.resize {
-  min-height: 100%;
-  min-width: 100%;
-  max-height: 100%;
-  max-width: 100%;
-  transition: opacity .25s ease-in-out;
-  -moz-transition: opacity .25s ease-in-out;
-  -webkit-transition: opacity .25s ease-in-out;
+#finalbook {
+  text-align: center;
+}
+
+.paragraph {
+  margin: 10%;
+}
+
+p {
+  font-family: "nudista-web",sans-serif;
+  color: #FF0000;
+  text-align: left;
+  font-size: 1em;
+  font-weight: 300;
+}
+
+span {
+  font-family: "letter-gothic-std", monospace;
+  text-align: justify;
+  color: #FF0000;
+  font-size: 16px;
+}
+
+ol {
+  margin: 0 60px 0 70px;
+}
+
+li {
+  font-family: "letter-gothic-std", monospace;
+  text-align: justify;
+  color: #fad2d6;
+  font-size: 16px;
+  margin: 5px;
+}
+
+li a {
+  color: #fad2d6;
 }
 
 footer {
